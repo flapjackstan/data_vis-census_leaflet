@@ -1,0 +1,15 @@
+{
+    "name": "docker-express-node",
+    "version": "1.0.0",
+    "description": "First time using docker and nodejs",
+    "author": "Elmer Camargo <elm.s.camargo@gmail.com>",
+    "license": "MIT",
+    "main": "js/server.js",
+    "keywords": [
+      "nodejs",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }

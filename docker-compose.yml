@@ -1,0 +1,9 @@
+version: '3.0'
+
+services:
+  web_dev:
+    image: node_web_dev
+    init: true
+    build: .
+    ports:
+      - "3000:3000"

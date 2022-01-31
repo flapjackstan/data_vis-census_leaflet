@@ -1,0 +1,2096 @@
+{
+  "City of Agoura Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 18019,
+    "Pop65Plus": 3696,
+    "PopYouth": 572
+  },
+  "City of Alhambra": {
+    "Source": "BOS",
+    "Pop16Plus": 72940,
+    "Pop65Plus": 14764,
+    "PopYouth": 1627
+  },
+  "City of Arcadia": {
+    "Source": "BOS",
+    "Pop16Plus": 51103,
+    "Pop65Plus": 10938,
+    "PopYouth": 1437
+  },
+  "City of Artesia": {
+    "Source": "BOS",
+    "Pop16Plus": 14266,
+    "Pop65Plus": 2636,
+    "PopYouth": 389
+  },
+  "City of Avalon": {
+    "Source": "BOS",
+    "Pop16Plus": 3077,
+    "Pop65Plus": 596,
+    "PopYouth": 77
+  },
+  "City of Azusa": {
+    "Source": "BOS",
+    "Pop16Plus": 41247,
+    "Pop65Plus": 5478,
+    "PopYouth": 1442
+  },
+  "City of Baldwin Park": {
+    "Source": "BOS",
+    "Pop16Plus": 60553,
+    "Pop65Plus": 8648,
+    "PopYouth": 2300
+  },
+  "City of Bell": {
+    "Source": "BOS",
+    "Pop16Plus": 27886,
+    "Pop65Plus": 3306,
+    "PopYouth": 1140
+  },
+  "City of Bell Gardens": {
+    "Source": "BOS",
+    "Pop16Plus": 32283,
+    "Pop65Plus": 3196,
+    "PopYouth": 1443
+  },
+  "City of Bellflower": {
+    "Source": "BOS",
+    "Pop16Plus": 61727,
+    "Pop65Plus": 9243,
+    "PopYouth": 2163
+  },
+  "City of Beverly Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 30382,
+    "Pop65Plus": 6990,
+    "PopYouth": 723
+  },
+  "City of Bradbury": {
+    "Source": "BOS",
+    "Pop16Plus": 941,
+    "Pop65Plus": 285,
+    "PopYouth": 16
+  },
+  "City of Burbank": {
+    "Source": "BOS",
+    "Pop16Plus": 89490,
+    "Pop65Plus": 16273,
+    "PopYouth": 2201
+  },
+  "City of Calabasas": {
+    "Source": "BOS",
+    "Pop16Plus": 20686,
+    "Pop65Plus": 4285,
+    "PopYouth": 698
+  },
+  "City of Carson": {
+    "Source": "BOS",
+    "Pop16Plus": 77526,
+    "Pop65Plus": 15713,
+    "PopYouth": 2254
+  },
+  "City of Cerritos": {
+    "Source": "BOS",
+    "Pop16Plus": 44733,
+    "Pop65Plus": 11939,
+    "PopYouth": 1125
+  },
+  "City of Claremont": {
+    "Source": "BOS",
+    "Pop16Plus": 32385,
+    "Pop65Plus": 6907,
+    "PopYouth": 753
+  },
+  "City of Commerce": {
+    "Source": "BOS",
+    "Pop16Plus": 10126,
+    "Pop65Plus": 1553,
+    "PopYouth": 347
+  },
+  "City of Compton": {
+    "Source": "BOS",
+    "Pop16Plus": 73961,
+    "Pop65Plus": 8557,
+    "PopYouth": 3152
+  },
+  "City of Covina": {
+    "Source": "BOS",
+    "Pop16Plus": 39838,
+    "Pop65Plus": 7033,
+    "PopYouth": 1179
+  },
+  "City of Cudahy": {
+    "Source": "BOS",
+    "Pop16Plus": 18295,
+    "Pop65Plus": 1778,
+    "PopYouth": 818
+  },
+  "City of Culver City": {
+    "Source": "BOS",
+    "Pop16Plus": 33638,
+    "Pop65Plus": 7150,
+    "PopYouth": 798
+  },
+  "City of Diamond Bar": {
+    "Source": "BOS",
+    "Pop16Plus": 49867,
+    "Pop65Plus": 10228,
+    "PopYouth": 1244
+  },
+  "City of Downey": {
+    "Source": "BOS",
+    "Pop16Plus": 91339,
+    "Pop65Plus": 14024,
+    "PopYouth": 3067
+  },
+  "City of Duarte": {
+    "Source": "BOS",
+    "Pop16Plus": 18158,
+    "Pop65Plus": 4042,
+    "PopYouth": 504
+  },
+  "City of El Monte": {
+    "Source": "BOS",
+    "Pop16Plus": 92175,
+    "Pop65Plus": 14203,
+    "PopYouth": 3349
+  },
+  "City of El Segundo": {
+    "Source": "BOS",
+    "Pop16Plus": 14398,
+    "Pop65Plus": 2272,
+    "PopYouth": 379
+  },
+  "City of Gardena": {
+    "Source": "BOS",
+    "Pop16Plus": 49730,
+    "Pop65Plus": 10175,
+    "PopYouth": 1395
+  },
+  "City of Glendale": {
+    "Source": "BOS",
+    "Pop16Plus": 177007,
+    "Pop65Plus": 37486,
+    "PopYouth": 3815
+  },
+  "City of Glendora": {
+    "Source": "BOS",
+    "Pop16Plus": 44071,
+    "Pop65Plus": 8680,
+    "PopYouth": 1188
+  },
+  "City of Hawaiian Gardens": {
+    "Source": "BOS",
+    "Pop16Plus": 11169,
+    "Pop65Plus": 1570,
+    "PopYouth": 441
+  },
+  "City of Hawthorne": {
+    "Source": "BOS",
+    "Pop16Plus": 68128,
+    "Pop65Plus": 9040,
+    "PopYouth": 2348
+  },
+  "City of Hermosa Beach": {
+    "Source": "BOS",
+    "Pop16Plus": 16777,
+    "Pop65Plus": 2309,
+    "PopYouth": 388
+  },
+  "City of Hidden Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 1685,
+    "Pop65Plus": 396,
+    "PopYouth": 54
+  },
+  "City of Huntington Park": {
+    "Source": "BOS",
+    "Pop16Plus": 45409,
+    "Pop65Plus": 5321,
+    "PopYouth": 1845
+  },
+  "City of Industry": {
+    "Source": "BOS",
+    "Pop16Plus": 387,
+    "Pop65Plus": 56,
+    "PopYouth": 2
+  },
+  "City of Inglewood": {
+    "Source": "BOS",
+    "Pop16Plus": 89367,
+    "Pop65Plus": 13587,
+    "PopYouth": 2982
+  },
+  "City of Irwindale": {
+    "Source": "BOS",
+    "Pop16Plus": 1243,
+    "Pop65Plus": 217,
+    "PopYouth": 31
+  },
+  "City of La Canada Flintridge": {
+    "Source": "BOS",
+    "Pop16Plus": 18368,
+    "Pop65Plus": 4237,
+    "PopYouth": 563
+  },
+  "City of La Habra Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 4904,
+    "Pop65Plus": 1442,
+    "PopYouth": 125
+  },
+  "City of La Mirada": {
+    "Source": "BOS",
+    "Pop16Plus": 41920,
+    "Pop65Plus": 8182,
+    "PopYouth": 1117
+  },
+  "City of La Puente": {
+    "Source": "BOS",
+    "Pop16Plus": 32241,
+    "Pop65Plus": 4683,
+    "PopYouth": 1192
+  },
+  "City of La Verne": {
+    "Source": "BOS",
+    "Pop16Plus": 28739,
+    "Pop65Plus": 6693,
+    "PopYouth": 812
+  },
+  "City of Lakewood": {
+    "Source": "BOS",
+    "Pop16Plus": 66714,
+    "Pop65Plus": 12110,
+    "PopYouth": 2003
+  },
+  "City of Lancaster": {
+    "Source": "BOS",
+    "Pop16Plus": 125124,
+    "Pop65Plus": 16810,
+    "PopYouth": 4982
+  },
+  "City of Lawndale": {
+    "Source": "BOS",
+    "Pop16Plus": 26413,
+    "Pop65Plus": 3460,
+    "PopYouth": 885
+  },
+  "City of Lomita": {
+    "Source": "BOS",
+    "Pop16Plus": 16936,
+    "Pop65Plus": 3370,
+    "PopYouth": 467
+  },
+  "City of Long Beach": {
+    "Source": "BOS",
+    "Pop16Plus": 380767,
+    "Pop65Plus": 56619,
+    "PopYouth": 11432
+  },
+  "City of Lynwood": {
+    "Source": "BOS",
+    "Pop16Plus": 53781,
+    "Pop65Plus": 5487,
+    "PopYouth": 2277
+  },
+  "City of Malibu": {
+    "Source": "BOS",
+    "Pop16Plus": 11005,
+    "Pop65Plus": 3085,
+    "PopYouth": 308
+  },
+  "City of Manhattan Beach": {
+    "Source": "BOS",
+    "Pop16Plus": 29889,
+    "Pop65Plus": 5748,
+    "PopYouth": 1156
+  },
+  "City of Maywood": {
+    "Source": "BOS",
+    "Pop16Plus": 21041,
+    "Pop65Plus": 2285,
+    "PopYouth": 910
+  },
+  "City of Monrovia": {
+    "Source": "BOS",
+    "Pop16Plus": 31151,
+    "Pop65Plus": 5653,
+    "PopYouth": 902
+  },
+  "City of Montebello": {
+    "Source": "BOS",
+    "Pop16Plus": 51676,
+    "Pop65Plus": 9814,
+    "PopYouth": 1730
+  },
+  "City of Monterey Park": {
+    "Source": "BOS",
+    "Pop16Plus": 52776,
+    "Pop65Plus": 13057,
+    "PopYouth": 1231
+  },
+  "City of Norwalk": {
+    "Source": "BOS",
+    "Pop16Plus": 85167,
+    "Pop65Plus": 13089,
+    "PopYouth": 3041
+  },
+  "City of Palmdale": {
+    "Source": "BOS",
+    "Pop16Plus": 122212,
+    "Pop65Plus": 15359,
+    "PopYouth": 4914
+  },
+  "City of Palos Verdes Estates": {
+    "Source": "BOS",
+    "Pop16Plus": 12076,
+    "Pop65Plus": 3695,
+    "PopYouth": 380
+  },
+  "City of Paramount": {
+    "Source": "BOS",
+    "Pop16Plus": 42380,
+    "Pop65Plus": 4800,
+    "PopYouth": 1724
+  },
+  "City of Pasadena": {
+    "Source": "BOS",
+    "Pop16Plus": 120740,
+    "Pop65Plus": 22815,
+    "PopYouth": 2969
+  },
+  "City of Pico Rivera": {
+    "Source": "BOS",
+    "Pop16Plus": 51374,
+    "Pop65Plus": 8742,
+    "PopYouth": 1816
+  },
+  "City of Pomona": {
+    "Source": "BOS",
+    "Pop16Plus": 120081,
+    "Pop65Plus": 15668,
+    "PopYouth": 4393
+  },
+  "City of Rancho Palos Verdes": {
+    "Source": "BOS",
+    "Pop16Plus": 37678,
+    "Pop65Plus": 10456,
+    "PopYouth": 1148
+  },
+  "City of Redondo Beach": {
+    "Source": "BOS",
+    "Pop16Plus": 55629,
+    "Pop65Plus": 9791,
+    "PopYouth": 1388
+  },
+  "City of Rolling Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 1766,
+    "Pop65Plus": 579,
+    "PopYouth": 44
+  },
+  "City of Rolling Hills Estates": {
+    "Source": "BOS",
+    "Pop16Plus": 7346,
+    "Pop65Plus": 2149,
+    "PopYouth": 253
+  },
+  "City of Rosemead": {
+    "Source": "BOS",
+    "Pop16Plus": 45986,
+    "Pop65Plus": 8950,
+    "PopYouth": 1358
+  },
+  "City of San Dimas": {
+    "Source": "BOS",
+    "Pop16Plus": 29867,
+    "Pop65Plus": 7042,
+    "PopYouth": 802
+  },
+  "City of San Fernando": {
+    "Source": "BOS",
+    "Pop16Plus": 19438,
+    "Pop65Plus": 2574,
+    "PopYouth": 740
+  },
+  "City of San Gabriel": {
+    "Source": "BOS",
+    "Pop16Plus": 34577,
+    "Pop65Plus": 6941,
+    "PopYouth": 856
+  },
+  "City of San Marino": {
+    "Source": "BOS",
+    "Pop16Plus": 11597,
+    "Pop65Plus": 2778,
+    "PopYouth": 449
+  },
+  "City of Santa Clarita": {
+    "Source": "BOS",
+    "Pop16Plus": 176831,
+    "Pop65Plus": 25541,
+    "PopYouth": 6171
+  },
+  "City of Santa Fe Springs": {
+    "Source": "BOS",
+    "Pop16Plus": 14943,
+    "Pop65Plus": 2862,
+    "PopYouth": 468
+  },
+  "City of Santa Monica": {
+    "Source": "BOS",
+    "Pop16Plus": 81541,
+    "Pop65Plus": 15757,
+    "PopYouth": 1290
+  },
+  "City of Sierra Madre": {
+    "Source": "BOS",
+    "Pop16Plus": 9509,
+    "Pop65Plus": 2601,
+    "PopYouth": 254
+  },
+  "City of Signal Hill": {
+    "Source": "BOS",
+    "Pop16Plus": 9305,
+    "Pop65Plus": 1523,
+    "PopYouth": 259
+  },
+  "City of South El Monte": {
+    "Source": "BOS",
+    "Pop16Plus": 16486,
+    "Pop65Plus": 2381,
+    "PopYouth": 628
+  },
+  "City of South Gate": {
+    "Source": "BOS",
+    "Pop16Plus": 74389,
+    "Pop65Plus": 9210,
+    "PopYouth": 2934
+  },
+  "City of South Pasadena": {
+    "Source": "BOS",
+    "Pop16Plus": 22155,
+    "Pop65Plus": 4123,
+    "PopYouth": 649
+  },
+  "City of Temple City": {
+    "Source": "BOS",
+    "Pop16Plus": 31528,
+    "Pop65Plus": 7036,
+    "PopYouth": 867
+  },
+  "City of Torrance": {
+    "Source": "BOS",
+    "Pop16Plus": 124794,
+    "Pop65Plus": 24948,
+    "PopYouth": 3517
+  },
+  "City of Vernon": {
+    "Source": "BOS",
+    "Pop16Plus": 230,
+    "Pop65Plus": 7,
+    "PopYouth": 8
+  },
+  "City of Walnut": {
+    "Source": "BOS",
+    "Pop16Plus": 27126,
+    "Pop65Plus": 6239,
+    "PopYouth": 668
+  },
+  "City of West Covina": {
+    "Source": "BOS",
+    "Pop16Plus": 88873,
+    "Pop65Plus": 16737,
+    "PopYouth": 2658
+  },
+  "City of West Hollywood": {
+    "Source": "BOS",
+    "Pop16Plus": 34326,
+    "Pop65Plus": 5467,
+    "PopYouth": 131
+  },
+  "City of Westlake Village": {
+    "Source": "BOS",
+    "Pop16Plus": 7436,
+    "Pop65Plus": 2149,
+    "PopYouth": 202
+  },
+  "City of Whittier": {
+    "Source": "BOS",
+    "Pop16Plus": 70656,
+    "Pop65Plus": 11804,
+    "PopYouth": 2292
+  },
+  "Los Angeles - Adams-Normandie": {
+    "Source": "LA City",
+    "Pop16Plus": 6511,
+    "Pop65Plus": 867,
+    "PopYouth": 211
+  },
+  "Los Angeles - Alsace": {
+    "Source": "LA City",
+    "Pop16Plus": 9551,
+    "Pop65Plus": 1042,
+    "PopYouth": 351
+  },
+  "Los Angeles - Angeles National Forest": {
+    "Source": "LA City",
+    "Pop16Plus": 38,
+    "Pop65Plus": 10,
+    "PopYouth": 0
+  },
+  "Los Angeles - Angelino Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 2077,
+    "Pop65Plus": 321,
+    "PopYouth": 46
+  },
+  "Los Angeles - Arleta": {
+    "Source": "LA City",
+    "Pop16Plus": 27206,
+    "Pop65Plus": 3834,
+    "PopYouth": 872
+  },
+  "Los Angeles - Atwater Village": {
+    "Source": "LA City",
+    "Pop16Plus": 12795,
+    "Pop65Plus": 2620,
+    "PopYouth": 275
+  },
+  "Los Angeles - Baldwin Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 24686,
+    "Pop65Plus": 4963,
+    "PopYouth": 734
+  },
+  "Los Angeles - Bel Air": {
+    "Source": "LA City",
+    "Pop16Plus": 7164,
+    "Pop65Plus": 2113,
+    "PopYouth": 196
+  },
+  "Los Angeles - Beverly Crest": {
+    "Source": "LA City",
+    "Pop16Plus": 10273,
+    "Pop65Plus": 3018,
+    "PopYouth": 313
+  },
+  "Los Angeles - Beverlywood": {
+    "Source": "LA City",
+    "Pop16Plus": 10108,
+    "Pop65Plus": 1825,
+    "PopYouth": 352
+  },
+  "Los Angeles - Boyle Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 65483,
+    "Pop65Plus": 7962,
+    "PopYouth": 2848
+  },
+  "Los Angeles - Brentwood": {
+    "Source": "LA City",
+    "Pop16Plus": 26320,
+    "Pop65Plus": 5645,
+    "PopYouth": 521
+  },
+  "Los Angeles - Brookside": {
+    "Source": "LA City",
+    "Pop16Plus": 462,
+    "Pop65Plus": 97,
+    "PopYouth": 5
+  },
+  "Los Angeles - Cadillac-Corning": {
+    "Source": "LA City",
+    "Pop16Plus": 5638,
+    "Pop65Plus": 635,
+    "PopYouth": 213
+  },
+  "Los Angeles - Canoga Park": {
+    "Source": "LA City",
+    "Pop16Plus": 51304,
+    "Pop65Plus": 6446,
+    "PopYouth": 1766
+  },
+  "Los Angeles - Carthay": {
+    "Source": "LA City",
+    "Pop16Plus": 12443,
+    "Pop65Plus": 2301,
+    "PopYouth": 102
+  },
+  "Los Angeles - Central": {
+    "Source": "LA City",
+    "Pop16Plus": 28582,
+    "Pop65Plus": 2581,
+    "PopYouth": 1285
+  },
+  "Los Angeles - Century City": {
+    "Source": "LA City",
+    "Pop16Plus": 10589,
+    "Pop65Plus": 2864,
+    "PopYouth": 207
+  },
+  "Los Angeles - Century Palms/Cove": {
+    "Source": "LA City",
+    "Pop16Plus": 24721,
+    "Pop65Plus": 2414,
+    "PopYouth": 1039
+  },
+  "Los Angeles - Chatsworth": {
+    "Source": "LA City",
+    "Pop16Plus": 31934,
+    "Pop65Plus": 7640,
+    "PopYouth": 809
+  },
+  "Los Angeles - Cheviot Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 7395,
+    "Pop65Plus": 1964,
+    "PopYouth": 261
+  },
+  "Los Angeles - Chinatown": {
+    "Source": "LA City",
+    "Pop16Plus": 7441,
+    "Pop65Plus": 1771,
+    "PopYouth": 149
+  },
+  "Los Angeles - Cloverdale/Cochran": {
+    "Source": "LA City",
+    "Pop16Plus": 11658,
+    "Pop65Plus": 1592,
+    "PopYouth": 389
+  },
+  "Los Angeles - Country Club Park": {
+    "Source": "LA City",
+    "Pop16Plus": 12607,
+    "Pop65Plus": 2410,
+    "PopYouth": 296
+  },
+  "Los Angeles - Crenshaw District": {
+    "Source": "LA City",
+    "Pop16Plus": 11229,
+    "Pop65Plus": 2217,
+    "PopYouth": 382
+  },
+  "Los Angeles - Crestview": {
+    "Source": "LA City",
+    "Pop16Plus": 9029,
+    "Pop65Plus": 1553,
+    "PopYouth": 228
+  },
+  "Los Angeles - Del Rey": {
+    "Source": "LA City",
+    "Pop16Plus": 24687,
+    "Pop65Plus": 4690,
+    "PopYouth": 607
+  },
+  "Los Angeles - Downtown": {
+    "Source": "LA City",
+    "Pop16Plus": 32266,
+    "Pop65Plus": 4829,
+    "PopYouth": 231
+  },
+  "Los Angeles - Eagle Rock": {
+    "Source": "LA City",
+    "Pop16Plus": 33174,
+    "Pop65Plus": 6594,
+    "PopYouth": 844
+  },
+  "Los Angeles - East Hollywood": {
+    "Source": "LA City",
+    "Pop16Plus": 24278,
+    "Pop65Plus": 3952,
+    "PopYouth": 602
+  },
+  "Los Angeles - Echo Park": {
+    "Source": "LA City",
+    "Pop16Plus": 12147,
+    "Pop65Plus": 1825,
+    "PopYouth": 211
+  },
+  "Los Angeles - El Sereno": {
+    "Source": "LA City",
+    "Pop16Plus": 33277,
+    "Pop65Plus": 5415,
+    "PopYouth": 1070
+  },
+  "Los Angeles - Elysian Park": {
+    "Source": "LA City",
+    "Pop16Plus": 4838,
+    "Pop65Plus": 828,
+    "PopYouth": 90
+  },
+  "Los Angeles - Elysian Valley": {
+    "Source": "LA City",
+    "Pop16Plus": 8249,
+    "Pop65Plus": 1496,
+    "PopYouth": 211
+  },
+  "Los Angeles - Encino": {
+    "Source": "LA City",
+    "Pop16Plus": 37408,
+    "Pop65Plus": 9736,
+    "PopYouth": 934
+  },
+  "Los Angeles - Exposition": {
+    "Source": "LA City",
+    "Pop16Plus": 2673,
+    "Pop65Plus": 359,
+    "PopYouth": 80
+  },
+  "Los Angeles - Exposition Park": {
+    "Source": "LA City",
+    "Pop16Plus": 36171,
+    "Pop65Plus": 3809,
+    "PopYouth": 1096
+  },
+  "Los Angeles - Faircrest Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 2972,
+    "Pop65Plus": 562,
+    "PopYouth": 96
+  },
+  "Los Angeles - Figueroa Park Square": {
+    "Source": "LA City",
+    "Pop16Plus": 6785,
+    "Pop65Plus": 940,
+    "PopYouth": 240
+  },
+  "Los Angeles - Florence-Firestone": {
+    "Source": "LA City",
+    "Pop16Plus": 34230,
+    "Pop65Plus": 3099,
+    "PopYouth": 1560
+  },
+  "Los Angeles - Glassell Park": {
+    "Source": "LA City",
+    "Pop16Plus": 25558,
+    "Pop65Plus": 4733,
+    "PopYouth": 726
+  },
+  "Los Angeles - Gramercy Place": {
+    "Source": "LA City",
+    "Pop16Plus": 8956,
+    "Pop65Plus": 1963,
+    "PopYouth": 299
+  },
+  "Los Angeles - Granada Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 49282,
+    "Pop65Plus": 9937,
+    "PopYouth": 1333
+  },
+  "Los Angeles - Green Meadows": {
+    "Source": "LA City",
+    "Pop16Plus": 15495,
+    "Pop65Plus": 1580,
+    "PopYouth": 686
+  },
+  "Los Angeles - Hancock Park": {
+    "Source": "LA City",
+    "Pop16Plus": 13895,
+    "Pop65Plus": 2881,
+    "PopYouth": 493
+  },
+  "Los Angeles - Harbor City": {
+    "Source": "LA City",
+    "Pop16Plus": 23143,
+    "Pop65Plus": 4304,
+    "PopYouth": 694
+  },
+  "Los Angeles - Harbor Gateway": {
+    "Source": "LA City",
+    "Pop16Plus": 33924,
+    "Pop65Plus": 4908,
+    "PopYouth": 1207
+  },
+  "Los Angeles - Harbor Pines": {
+    "Source": "LA City",
+    "Pop16Plus": 1943,
+    "Pop65Plus": 388,
+    "PopYouth": 58
+  },
+  "Los Angeles - Harvard Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 14093,
+    "Pop65Plus": 1927,
+    "PopYouth": 445
+  },
+  "Los Angeles - Harvard Park": {
+    "Source": "LA City",
+    "Pop16Plus": 29098,
+    "Pop65Plus": 3687,
+    "PopYouth": 1109
+  },
+  "Los Angeles - Highland Park": {
+    "Source": "LA City",
+    "Pop16Plus": 38099,
+    "Pop65Plus": 5595,
+    "PopYouth": 1173
+  },
+  "Los Angeles - Historic Filipinotown": {
+    "Source": "LA City",
+    "Pop16Plus": 11283,
+    "Pop65Plus": 1807,
+    "PopYouth": 309
+  },
+  "Los Angeles - Hollywood": {
+    "Source": "LA City",
+    "Pop16Plus": 61217,
+    "Pop65Plus": 8254,
+    "PopYouth": 832
+  },
+  "Los Angeles - Hollywood Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 25698,
+    "Pop65Plus": 4376,
+    "PopYouth": 300
+  },
+  "Los Angeles - Hyde Park": {
+    "Source": "LA City",
+    "Pop16Plus": 22545,
+    "Pop65Plus": 3781,
+    "PopYouth": 736
+  },
+  "Los Angeles - Jefferson Park": {
+    "Source": "LA City",
+    "Pop16Plus": 6266,
+    "Pop65Plus": 901,
+    "PopYouth": 235
+  },
+  "Los Angeles - Koreatown": {
+    "Source": "LA City",
+    "Pop16Plus": 42577,
+    "Pop65Plus": 6346,
+    "PopYouth": 1053
+  },
+  "Los Angeles - Lafayette Square": {
+    "Source": "LA City",
+    "Pop16Plus": 3612,
+    "Pop65Plus": 530,
+    "PopYouth": 107
+  },
+  "Los Angeles - Lake Balboa": {
+    "Source": "LA City",
+    "Pop16Plus": 33490,
+    "Pop65Plus": 5077,
+    "PopYouth": 1067
+  },
+  "Los Angeles - Lakeview Terrace": {
+    "Source": "LA City",
+    "Pop16Plus": 10445,
+    "Pop65Plus": 1550,
+    "PopYouth": 402
+  },
+  "Los Angeles - Leimert Park": {
+    "Source": "LA City",
+    "Pop16Plus": 12652,
+    "Pop65Plus": 2543,
+    "PopYouth": 315
+  },
+  "Los Angeles - Lincoln Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 25595,
+    "Pop65Plus": 4118,
+    "PopYouth": 797
+  },
+  "Los Angeles - Little Armenia": {
+    "Source": "LA City",
+    "Pop16Plus": 6841,
+    "Pop65Plus": 1170,
+    "PopYouth": 136
+  },
+  "Los Angeles - Little Bangladesh": {
+    "Source": "LA City",
+    "Pop16Plus": 23428,
+    "Pop65Plus": 3151,
+    "PopYouth": 558
+  },
+  "Los Angeles - Little Tokyo": {
+    "Source": "LA City",
+    "Pop16Plus": 2898,
+    "Pop65Plus": 731,
+    "PopYouth": 22
+  },
+  "Los Angeles - Longwood": {
+    "Source": "LA City",
+    "Pop16Plus": 3445,
+    "Pop65Plus": 504,
+    "PopYouth": 107
+  },
+  "Los Angeles - Los Feliz": {
+    "Source": "LA City",
+    "Pop16Plus": 18815,
+    "Pop65Plus": 3564,
+    "PopYouth": 263
+  },
+  "Los Angeles - Manchester Square": {
+    "Source": "LA City",
+    "Pop16Plus": 6911,
+    "Pop65Plus": 1270,
+    "PopYouth": 195
+  },
+  "Los Angeles - Mandeville Canyon": {
+    "Source": "LA City",
+    "Pop16Plus": 2665,
+    "Pop65Plus": 872,
+    "PopYouth": 85
+  },
+  "Los Angeles - Mar Vista": {
+    "Source": "LA City",
+    "Pop16Plus": 34676,
+    "Pop65Plus": 6593,
+    "PopYouth": 736
+  },
+  "Los Angeles - Marina Peninsula": {
+    "Source": "LA City",
+    "Pop16Plus": 3805,
+    "Pop65Plus": 1055,
+    "PopYouth": 40
+  },
+  "Los Angeles - Melrose": {
+    "Source": "LA City",
+    "Pop16Plus": 64239,
+    "Pop65Plus": 9269,
+    "PopYouth": 1365
+  },
+  "Los Angeles - Mid-city": {
+    "Source": "LA City",
+    "Pop16Plus": 12445,
+    "Pop65Plus": 2109,
+    "PopYouth": 266
+  },
+  "Los Angeles - Miracle Mile": {
+    "Source": "LA City",
+    "Pop16Plus": 15523,
+    "Pop65Plus": 2271,
+    "PopYouth": 201
+  },
+  "Los Angeles - Mission Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 19434,
+    "Pop65Plus": 3465,
+    "PopYouth": 607
+  },
+  "Los Angeles - Mt. Washington": {
+    "Source": "LA City",
+    "Pop16Plus": 19525,
+    "Pop65Plus": 3470,
+    "PopYouth": 585
+  },
+  "Los Angeles - North Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 48131,
+    "Pop65Plus": 6700,
+    "PopYouth": 1824
+  },
+  "Los Angeles - North Hollywood": {
+    "Source": "LA City",
+    "Pop16Plus": 122758,
+    "Pop65Plus": 16762,
+    "PopYouth": 3262
+  },
+  "Los Angeles - Northridge": {
+    "Source": "LA City",
+    "Pop16Plus": 59808,
+    "Pop65Plus": 10314,
+    "PopYouth": 1357
+  },
+  "Los Angeles - Pacific Palisades": {
+    "Source": "LA City",
+    "Pop16Plus": 17576,
+    "Pop65Plus": 4938,
+    "PopYouth": 656
+  },
+  "Los Angeles - Pacoima": {
+    "Source": "LA City",
+    "Pop16Plus": 57066,
+    "Pop65Plus": 6484,
+    "PopYouth": 2393
+  },
+  "Los Angeles - Palisades Highlands": {
+    "Source": "LA City",
+    "Pop16Plus": 3300,
+    "Pop65Plus": 1001,
+    "PopYouth": 118
+  },
+  "Los Angeles - Palms": {
+    "Source": "LA City",
+    "Pop16Plus": 36835,
+    "Pop65Plus": 4436,
+    "PopYouth": 577
+  },
+  "Los Angeles - Panorama City": {
+    "Source": "LA City",
+    "Pop16Plus": 57646,
+    "Pop65Plus": 7146,
+    "PopYouth": 2165
+  },
+  "Los Angeles - Park La Brea": {
+    "Source": "LA City",
+    "Pop16Plus": 10931,
+    "Pop65Plus": 1113,
+    "PopYouth": 255
+  },
+  "Los Angeles - Pico-Union": {
+    "Source": "LA City",
+    "Pop16Plus": 32622,
+    "Pop65Plus": 4223,
+    "PopYouth": 1051
+  },
+  "Los Angeles - Playa Del Rey": {
+    "Source": "LA City",
+    "Pop16Plus": 2706,
+    "Pop65Plus": 625,
+    "PopYouth": 35
+  },
+  "Los Angeles - Playa Vista": {
+    "Source": "LA City",
+    "Pop16Plus": 9091,
+    "Pop65Plus": 1223,
+    "PopYouth": 96
+  },
+  "Los Angeles - Porter Ranch": {
+    "Source": "LA City",
+    "Pop16Plus": 30695,
+    "Pop65Plus": 7674,
+    "PopYouth": 884
+  },
+  "Los Angeles - Rancho Park": {
+    "Source": "LA City",
+    "Pop16Plus": 5151,
+    "Pop65Plus": 985,
+    "PopYouth": 170
+  },
+  "Los Angeles - Regent Square": {
+    "Source": "LA City",
+    "Pop16Plus": 2255,
+    "Pop65Plus": 327,
+    "PopYouth": 65
+  },
+  "Los Angeles - Reseda": {
+    "Source": "LA City",
+    "Pop16Plus": 61896,
+    "Pop65Plus": 10068,
+    "PopYouth": 1903
+  },
+  "Los Angeles - Reseda Ranch": {
+    "Source": "LA City",
+    "Pop16Plus": 3771,
+    "Pop65Plus": 584,
+    "PopYouth": 98
+  },
+  "Los Angeles - Reynier Village": {
+    "Source": "LA City",
+    "Pop16Plus": 3370,
+    "Pop65Plus": 560,
+    "PopYouth": 80
+  },
+  "Los Angeles - San Pedro": {
+    "Source": "LA City",
+    "Pop16Plus": 62326,
+    "Pop65Plus": 11746,
+    "PopYouth": 1865
+  },
+  "Los Angeles - Shadow Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 3867,
+    "Pop65Plus": 875,
+    "PopYouth": 95
+  },
+  "Los Angeles - Sherman Oaks": {
+    "Source": "LA City",
+    "Pop16Plus": 72598,
+    "Pop65Plus": 13322,
+    "PopYouth": 1549
+  },
+  "Los Angeles - Silverlake": {
+    "Source": "LA City",
+    "Pop16Plus": 37457,
+    "Pop65Plus": 6161,
+    "PopYouth": 705
+  },
+  "Los Angeles - South Carthay": {
+    "Source": "LA City",
+    "Pop16Plus": 8489,
+    "Pop65Plus": 1534,
+    "PopYouth": 139
+  },
+  "Los Angeles - South Park": {
+    "Source": "LA City",
+    "Pop16Plus": 27305,
+    "Pop65Plus": 2226,
+    "PopYouth": 1217
+  },
+  "Los Angeles - St Elmo Village": {
+    "Source": "LA City",
+    "Pop16Plus": 3590,
+    "Pop65Plus": 432,
+    "PopYouth": 124
+  },
+  "Los Angeles - Studio City": {
+    "Source": "LA City",
+    "Pop16Plus": 18996,
+    "Pop65Plus": 3730,
+    "PopYouth": 385
+  },
+  "Los Angeles - Sun Valley": {
+    "Source": "LA City",
+    "Pop16Plus": 41254,
+    "Pop65Plus": 6287,
+    "PopYouth": 1369
+  },
+  "Los Angeles - Sunland": {
+    "Source": "LA City",
+    "Pop16Plus": 17414,
+    "Pop65Plus": 3826,
+    "PopYouth": 344
+  },
+  "Los Angeles - Sycamore Square": {
+    "Source": "LA City",
+    "Pop16Plus": 556,
+    "Pop65Plus": 64,
+    "PopYouth": 5
+  },
+  "Los Angeles - Sylmar": {
+    "Source": "LA City",
+    "Pop16Plus": 64481,
+    "Pop65Plus": 8774,
+    "PopYouth": 2657
+  },
+  "Los Angeles - Tarzana": {
+    "Source": "LA City",
+    "Pop16Plus": 25656,
+    "Pop65Plus": 5763,
+    "PopYouth": 691
+  },
+  "Los Angeles - Temple-Beaudry": {
+    "Source": "LA City",
+    "Pop16Plus": 31707,
+    "Pop65Plus": 4065,
+    "PopYouth": 948
+  },
+  "Los Angeles - Thai Town": {
+    "Source": "LA City",
+    "Pop16Plus": 8726,
+    "Pop65Plus": 1592,
+    "PopYouth": 130
+  },
+  "Los Angeles - Toluca Lake": {
+    "Source": "LA City",
+    "Pop16Plus": 7639,
+    "Pop65Plus": 1302,
+    "PopYouth": 91
+  },
+  "Los Angeles - Toluca Terrace": {
+    "Source": "LA City",
+    "Pop16Plus": 995,
+    "Pop65Plus": 110,
+    "PopYouth": 18
+  },
+  "Los Angeles - Toluca Woods": {
+    "Source": "LA City",
+    "Pop16Plus": 1595,
+    "Pop65Plus": 383,
+    "PopYouth": 33
+  },
+  "Los Angeles - Tujunga": {
+    "Source": "LA City",
+    "Pop16Plus": 23381,
+    "Pop65Plus": 4861,
+    "PopYouth": 567
+  },
+  "Los Angeles - University Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 2882,
+    "Pop65Plus": 375,
+    "PopYouth": 63
+  },
+  "Los Angeles - University Park": {
+    "Source": "LA City",
+    "Pop16Plus": 23956,
+    "Pop65Plus": 1591,
+    "PopYouth": 368
+  },
+  "Los Angeles - Valley Glen": {
+    "Source": "LA City",
+    "Pop16Plus": 24410,
+    "Pop65Plus": 4112,
+    "PopYouth": 650
+  },
+  "Los Angeles - Valley Village": {
+    "Source": "LA City",
+    "Pop16Plus": 20651,
+    "Pop65Plus": 3666,
+    "PopYouth": 413
+  },
+  "Los Angeles - Van Nuys": {
+    "Source": "LA City",
+    "Pop16Plus": 72201,
+    "Pop65Plus": 8974,
+    "PopYouth": 2365
+  },
+  "Los Angeles - Venice": {
+    "Source": "LA City",
+    "Pop16Plus": 28698,
+    "Pop65Plus": 4449,
+    "PopYouth": 436
+  },
+  "Los Angeles - Vermont Knolls": {
+    "Source": "LA City",
+    "Pop16Plus": 13177,
+    "Pop65Plus": 1778,
+    "PopYouth": 539
+  },
+  "Los Angeles - Vermont Square": {
+    "Source": "LA City",
+    "Pop16Plus": 5871,
+    "Pop65Plus": 770,
+    "PopYouth": 213
+  },
+  "Los Angeles - Vermont Vista": {
+    "Source": "LA City",
+    "Pop16Plus": 29572,
+    "Pop65Plus": 2804,
+    "PopYouth": 1387
+  },
+  "Los Angeles - Vernon Central": {
+    "Source": "LA City",
+    "Pop16Plus": 37519,
+    "Pop65Plus": 3139,
+    "PopYouth": 1775
+  },
+  "Los Angeles - Victoria Park": {
+    "Source": "LA City",
+    "Pop16Plus": 6618,
+    "Pop65Plus": 1048,
+    "PopYouth": 202
+  },
+  "Los Angeles - View Heights": {
+    "Source": "LA City",
+    "Pop16Plus": 3122,
+    "Pop65Plus": 639,
+    "PopYouth": 84
+  },
+  "Los Angeles - Watts": {
+    "Source": "LA City",
+    "Pop16Plus": 29875,
+    "Pop65Plus": 2533,
+    "PopYouth": 1568
+  },
+  "Los Angeles - Wellington Square": {
+    "Source": "LA City",
+    "Pop16Plus": 3867,
+    "Pop65Plus": 660,
+    "PopYouth": 124
+  },
+  "Los Angeles - West Adams": {
+    "Source": "LA City",
+    "Pop16Plus": 21748,
+    "Pop65Plus": 3384,
+    "PopYouth": 706
+  },
+  "Los Angeles - West Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 34938,
+    "Pop65Plus": 7896,
+    "PopYouth": 993
+  },
+  "Los Angeles - West Los Angeles": {
+    "Source": "LA City",
+    "Pop16Plus": 32711,
+    "Pop65Plus": 4467,
+    "PopYouth": 374
+  },
+  "Los Angeles - West Vernon": {
+    "Source": "LA City",
+    "Pop16Plus": 40802,
+    "Pop65Plus": 4859,
+    "PopYouth": 1520
+  },
+  "Los Angeles - Westchester": {
+    "Source": "LA City",
+    "Pop16Plus": 43503,
+    "Pop65Plus": 7452,
+    "PopYouth": 887
+  },
+  "Los Angeles - Westlake": {
+    "Source": "LA City",
+    "Pop16Plus": 47668,
+    "Pop65Plus": 5527,
+    "PopYouth": 1378
+  },
+  "Los Angeles - Westwood": {
+    "Source": "LA City",
+    "Pop16Plus": 49020,
+    "Pop65Plus": 6112,
+    "PopYouth": 559
+  },
+  "Los Angeles - Wholesale District": {
+    "Source": "LA City",
+    "Pop16Plus": 32528,
+    "Pop65Plus": 3464,
+    "PopYouth": 539
+  },
+  "Los Angeles - Wilmington": {
+    "Source": "LA City",
+    "Pop16Plus": 42449,
+    "Pop65Plus": 5071,
+    "PopYouth": 1813
+  },
+  "Los Angeles - Wilshire Center": {
+    "Source": "LA City",
+    "Pop16Plus": 40599,
+    "Pop65Plus": 5492,
+    "PopYouth": 983
+  },
+  "Los Angeles - Winnetka": {
+    "Source": "LA City",
+    "Pop16Plus": 41471,
+    "Pop65Plus": 6452,
+    "PopYouth": 1225
+  },
+  "Los Angeles - Woodland Hills": {
+    "Source": "LA City",
+    "Pop16Plus": 57284,
+    "Pop65Plus": 12806,
+    "PopYouth": 1455
+  },
+  "Unincorporated - Acton": {
+    "Source": "BOS",
+    "Pop16Plus": 6961,
+    "Pop65Plus": 1458,
+    "PopYouth": 178
+  },
+  "Unincorporated - Agua Dulce": {
+    "Source": "BOS",
+    "Pop16Plus": 3736,
+    "Pop65Plus": 925,
+    "PopYouth": 88
+  },
+  "Unincorporated - Altadena": {
+    "Source": "BOS",
+    "Pop16Plus": 36812,
+    "Pop65Plus": 8134,
+    "PopYouth": 1048
+  },
+  "Unincorporated - Anaverde": {
+    "Source": "BOS",
+    "Pop16Plus": 1278,
+    "Pop65Plus": 279,
+    "PopYouth": 40
+  },
+  "Unincorporated - Angeles National Forest": {
+    "Source": "BOS",
+    "Pop16Plus": 1096,
+    "Pop65Plus": 211,
+    "PopYouth": 21
+  },
+  "Unincorporated - Arcadia": {
+    "Source": "BOS",
+    "Pop16Plus": 6604,
+    "Pop65Plus": 1512,
+    "PopYouth": 180
+  },
+  "Unincorporated - Athens Village": {
+    "Source": "BOS",
+    "Pop16Plus": 3802,
+    "Pop65Plus": 493,
+    "PopYouth": 159
+  },
+  "Unincorporated - Athens-Westmont": {
+    "Source": "BOS",
+    "Pop16Plus": 32690,
+    "Pop65Plus": 4431,
+    "PopYouth": 1283
+  },
+  "Unincorporated - Avocado Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 5387,
+    "Pop65Plus": 799,
+    "PopYouth": 203
+  },
+  "Unincorporated - Azusa": {
+    "Source": "BOS",
+    "Pop16Plus": 12142,
+    "Pop65Plus": 1667,
+    "PopYouth": 436
+  },
+  "Unincorporated - Bandini Islands": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Bassett": {
+    "Source": "BOS",
+    "Pop16Plus": 11723,
+    "Pop65Plus": 1973,
+    "PopYouth": 413
+  },
+  "Unincorporated - Bouquet Canyon": {
+    "Source": "BOS",
+    "Pop16Plus": 909,
+    "Pop65Plus": 237,
+    "PopYouth": 27
+  },
+  "Unincorporated - Bradbury": {
+    "Source": "BOS",
+    "Pop16Plus": 101,
+    "Pop65Plus": 94,
+    "PopYouth": 0
+  },
+  "Unincorporated - Canyon Country": {
+    "Source": "BOS",
+    "Pop16Plus": 1575,
+    "Pop65Plus": 255,
+    "PopYouth": 53
+  },
+  "Unincorporated - Castaic": {
+    "Source": "BOS",
+    "Pop16Plus": 22736,
+    "Pop65Plus": 2259,
+    "PopYouth": 713
+  },
+  "Unincorporated - Cerritos": {
+    "Source": "BOS",
+    "Pop16Plus": 459,
+    "Pop65Plus": 81,
+    "PopYouth": 9
+  },
+  "Unincorporated - Charter Oak": {
+    "Source": "BOS",
+    "Pop16Plus": 19,
+    "Pop65Plus": 4,
+    "PopYouth": 0
+  },
+  "Unincorporated - Claremont": {
+    "Source": "BOS",
+    "Pop16Plus": 574,
+    "Pop65Plus": 140,
+    "PopYouth": 38
+  },
+  "Unincorporated - Covina": {
+    "Source": "BOS",
+    "Pop16Plus": 13789,
+    "Pop65Plus": 2461,
+    "PopYouth": 430
+  },
+  "Unincorporated - Covina (Charter Oak)": {
+    "Source": "BOS",
+    "Pop16Plus": 10961,
+    "Pop65Plus": 1847,
+    "PopYouth": 322
+  },
+  "Unincorporated - Del Aire": {
+    "Source": "BOS",
+    "Pop16Plus": 3580,
+    "Pop65Plus": 532,
+    "PopYouth": 89
+  },
+  "Unincorporated - Del Rey": {
+    "Source": "BOS",
+    "Pop16Plus": 373,
+    "Pop65Plus": 107,
+    "PopYouth": 9
+  },
+  "Unincorporated - Del Sur": {
+    "Source": "BOS",
+    "Pop16Plus": 2129,
+    "Pop65Plus": 543,
+    "PopYouth": 51
+  },
+  "Unincorporated - Desert View Highlands": {
+    "Source": "BOS",
+    "Pop16Plus": 2010,
+    "Pop65Plus": 341,
+    "PopYouth": 67
+  },
+  "Unincorporated - Duarte": {
+    "Source": "BOS",
+    "Pop16Plus": 3440,
+    "Pop65Plus": 463,
+    "PopYouth": 125
+  },
+  "Unincorporated - East Covina": {
+    "Source": "BOS",
+    "Pop16Plus": 311,
+    "Pop65Plus": 103,
+    "PopYouth": 6
+  },
+  "Unincorporated - East La Mirada": {
+    "Source": "BOS",
+    "Pop16Plus": 4455,
+    "Pop65Plus": 780,
+    "PopYouth": 131
+  },
+  "Unincorporated - East Lancaster": {
+    "Source": "BOS",
+    "Pop16Plus": 94,
+    "Pop65Plus": 13,
+    "PopYouth": 4
+  },
+  "Unincorporated - East Los Angeles": {
+    "Source": "BOS",
+    "Pop16Plus": 94756,
+    "Pop65Plus": 12269,
+    "PopYouth": 3866
+  },
+  "Unincorporated - East Pasadena": {
+    "Source": "BOS",
+    "Pop16Plus": 6432,
+    "Pop65Plus": 1549,
+    "PopYouth": 178
+  },
+  "Unincorporated - East Rancho Dominguez": {
+    "Source": "BOS",
+    "Pop16Plus": 11160,
+    "Pop65Plus": 1157,
+    "PopYouth": 500
+  },
+  "Unincorporated - East Whittier": {
+    "Source": "BOS",
+    "Pop16Plus": 4315,
+    "Pop65Plus": 701,
+    "PopYouth": 136
+  },
+  "Unincorporated - El Camino Village": {
+    "Source": "BOS",
+    "Pop16Plus": 6806,
+    "Pop65Plus": 1030,
+    "PopYouth": 233
+  },
+  "Unincorporated - El Monte": {
+    "Source": "BOS",
+    "Pop16Plus": 103,
+    "Pop65Plus": 10,
+    "PopYouth": 5
+  },
+  "Unincorporated - Elizabeth Lake": {
+    "Source": "BOS",
+    "Pop16Plus": 1444,
+    "Pop65Plus": 270,
+    "PopYouth": 34
+  },
+  "Unincorporated - Florence-Firestone": {
+    "Source": "BOS",
+    "Pop16Plus": 47572,
+    "Pop65Plus": 4803,
+    "PopYouth": 2063
+  },
+  "Unincorporated - Franklin Canyon": {
+    "Source": "BOS",
+    "Pop16Plus": 11,
+    "Pop65Plus": 2,
+    "PopYouth": 0
+  },
+  "Unincorporated - Glendora": {
+    "Source": "BOS",
+    "Pop16Plus": 591,
+    "Pop65Plus": 140,
+    "PopYouth": 13
+  },
+  "Unincorporated - Hacienda Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 47816,
+    "Pop65Plus": 10786,
+    "PopYouth": 1242
+  },
+  "Unincorporated - Harbor Gateway": {
+    "Source": "BOS",
+    "Pop16Plus": 1,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Hawthorne": {
+    "Source": "BOS",
+    "Pop16Plus": 1933,
+    "Pop65Plus": 280,
+    "PopYouth": 77
+  },
+  "Unincorporated - Hi Vista": {
+    "Source": "BOS",
+    "Pop16Plus": 874,
+    "Pop65Plus": 230,
+    "PopYouth": 22
+  },
+  "Unincorporated - Kagel/Lopez Canyons": {
+    "Source": "BOS",
+    "Pop16Plus": 1095,
+    "Pop65Plus": 275,
+    "PopYouth": 38
+  },
+  "Unincorporated - La Crescenta-Montrose": {
+    "Source": "BOS",
+    "Pop16Plus": 17058,
+    "Pop65Plus": 3147,
+    "PopYouth": 455
+  },
+  "Unincorporated - La Habra Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 606,
+    "Pop65Plus": 160,
+    "PopYouth": 11
+  },
+  "Unincorporated - La Rambla": {
+    "Source": "BOS",
+    "Pop16Plus": 1672,
+    "Pop65Plus": 343,
+    "PopYouth": 29
+  },
+  "Unincorporated - La Verne": {
+    "Source": "BOS",
+    "Pop16Plus": 1697,
+    "Pop65Plus": 421,
+    "PopYouth": 81
+  },
+  "Unincorporated - Ladera Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 6192,
+    "Pop65Plus": 1847,
+    "PopYouth": 134
+  },
+  "Unincorporated - Lake Hughes": {
+    "Source": "BOS",
+    "Pop16Plus": 526,
+    "Pop65Plus": 70,
+    "PopYouth": 27
+  },
+  "Unincorporated - Lake Los Angeles": {
+    "Source": "BOS",
+    "Pop16Plus": 10027,
+    "Pop65Plus": 1373,
+    "PopYouth": 392
+  },
+  "Unincorporated - Lake Manor": {
+    "Source": "BOS",
+    "Pop16Plus": 1408,
+    "Pop65Plus": 305,
+    "PopYouth": 28
+  },
+  "Unincorporated - Lakewood": {
+    "Source": "BOS",
+    "Pop16Plus": 109,
+    "Pop65Plus": 19,
+    "PopYouth": 5
+  },
+  "Unincorporated - Lennox": {
+    "Source": "BOS",
+    "Pop16Plus": 17008,
+    "Pop65Plus": 1827,
+    "PopYouth": 695
+  },
+  "Unincorporated - Leona Valley": {
+    "Source": "BOS",
+    "Pop16Plus": 1584,
+    "Pop65Plus": 424,
+    "PopYouth": 37
+  },
+  "Unincorporated - Littlerock": {
+    "Source": "BOS",
+    "Pop16Plus": 3302,
+    "Pop65Plus": 530,
+    "PopYouth": 108
+  },
+  "Unincorporated - Littlerock/Juniper Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 1234,
+    "Pop65Plus": 376,
+    "PopYouth": 24
+  },
+  "Unincorporated - Littlerock/Pearblossom": {
+    "Source": "BOS",
+    "Pop16Plus": 2856,
+    "Pop65Plus": 449,
+    "PopYouth": 99
+  },
+  "Unincorporated - Llano": {
+    "Source": "BOS",
+    "Pop16Plus": 749,
+    "Pop65Plus": 221,
+    "PopYouth": 15
+  },
+  "Unincorporated - Long Beach": {
+    "Source": "BOS",
+    "Pop16Plus": 1262,
+    "Pop65Plus": 263,
+    "PopYouth": 33
+  },
+  "Unincorporated - Lynwood": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Marina del Rey": {
+    "Source": "BOS",
+    "Pop16Plus": 8381,
+    "Pop65Plus": 1328,
+    "PopYouth": 59
+  },
+  "Unincorporated - Miracle Mile": {
+    "Source": "BOS",
+    "Pop16Plus": 3,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Monrovia": {
+    "Source": "BOS",
+    "Pop16Plus": 3223,
+    "Pop65Plus": 597,
+    "PopYouth": 99
+  },
+  "Unincorporated - Newhall": {
+    "Source": "BOS",
+    "Pop16Plus": 182,
+    "Pop65Plus": 35,
+    "PopYouth": 7
+  },
+  "Unincorporated - North Lancaster": {
+    "Source": "BOS",
+    "Pop16Plus": 1038,
+    "Pop65Plus": 245,
+    "PopYouth": 17
+  },
+  "Unincorporated - North Whittier": {
+    "Source": "BOS",
+    "Pop16Plus": 6767,
+    "Pop65Plus": 1330,
+    "PopYouth": 246
+  },
+  "Unincorporated - Northeast San Gabriel": {
+    "Source": "BOS",
+    "Pop16Plus": 20100,
+    "Pop65Plus": 4148,
+    "PopYouth": 550
+  },
+  "Unincorporated - Padua Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 181,
+    "Pop65Plus": 50,
+    "PopYouth": 53
+  },
+  "Unincorporated - Palmdale": {
+    "Source": "BOS",
+    "Pop16Plus": 616,
+    "Pop65Plus": 64,
+    "PopYouth": 27
+  },
+  "Unincorporated - Palos Verdes Peninsula": {
+    "Source": "BOS",
+    "Pop16Plus": 568,
+    "Pop65Plus": 143,
+    "PopYouth": 21
+  },
+  "Unincorporated - Pearblossom/Llano": {
+    "Source": "BOS",
+    "Pop16Plus": 1671,
+    "Pop65Plus": 447,
+    "PopYouth": 41
+  },
+  "Unincorporated - Pellissier Village": {
+    "Source": "BOS",
+    "Pop16Plus": 475,
+    "Pop65Plus": 82,
+    "PopYouth": 21
+  },
+  "Unincorporated - Placerita Canyon": {
+    "Source": "BOS",
+    "Pop16Plus": 352,
+    "Pop65Plus": 26,
+    "PopYouth": 17
+  },
+  "Unincorporated - Pomona": {
+    "Source": "BOS",
+    "Pop16Plus": 1807,
+    "Pop65Plus": 94,
+    "PopYouth": 15
+  },
+  "Unincorporated - Quartz Hill": {
+    "Source": "BOS",
+    "Pop16Plus": 10745,
+    "Pop65Plus": 2106,
+    "PopYouth": 325
+  },
+  "Unincorporated - Rancho Dominguez": {
+    "Source": "BOS",
+    "Pop16Plus": 2294,
+    "Pop65Plus": 628,
+    "PopYouth": 55
+  },
+  "Unincorporated - Roosevelt": {
+    "Source": "BOS",
+    "Pop16Plus": 727,
+    "Pop65Plus": 169,
+    "PopYouth": 26
+  },
+  "Unincorporated - Rosewood": {
+    "Source": "BOS",
+    "Pop16Plus": 1061,
+    "Pop65Plus": 191,
+    "PopYouth": 34
+  },
+  "Unincorporated - Rosewood/East Gardena": {
+    "Source": "BOS",
+    "Pop16Plus": 1005,
+    "Pop65Plus": 215,
+    "PopYouth": 30
+  },
+  "Unincorporated - Rosewood/West Rancho Dominguez": {
+    "Source": "BOS",
+    "Pop16Plus": 2673,
+    "Pop65Plus": 364,
+    "PopYouth": 101
+  },
+  "Unincorporated - Rowland Heights": {
+    "Source": "BOS",
+    "Pop16Plus": 43531,
+    "Pop65Plus": 9648,
+    "PopYouth": 1082
+  },
+  "Unincorporated - San Clemente Island": {
+    "Source": "BOS",
+    "Pop16Plus": 4,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - San Francisquito Canyon/Bouquet Canyon": {
+    "Source": "BOS",
+    "Pop16Plus": 143,
+    "Pop65Plus": 7,
+    "PopYouth": 6
+  },
+  "Unincorporated - San Jose Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 15761,
+    "Pop65Plus": 2217,
+    "PopYouth": 580
+  },
+  "Unincorporated - San Pasqual": {
+    "Source": "BOS",
+    "Pop16Plus": 1649,
+    "Pop65Plus": 374,
+    "PopYouth": 44
+  },
+  "Unincorporated - Sand Canyon": {
+    "Source": "BOS",
+    "Pop16Plus": 283,
+    "Pop65Plus": 58,
+    "PopYouth": 6
+  },
+  "Unincorporated - Santa Catalina Island": {
+    "Source": "BOS",
+    "Pop16Plus": 249,
+    "Pop65Plus": 21,
+    "PopYouth": 2
+  },
+  "Unincorporated - Santa Monica Mountains": {
+    "Source": "BOS",
+    "Pop16Plus": 16297,
+    "Pop65Plus": 3425,
+    "PopYouth": 573
+  },
+  "Unincorporated - Saugus": {
+    "Source": "BOS",
+    "Pop16Plus": 139,
+    "Pop65Plus": 19,
+    "PopYouth": 6
+  },
+  "Unincorporated - Saugus/Canyon Country": {
+    "Source": "BOS",
+    "Pop16Plus": 336,
+    "Pop65Plus": 54,
+    "PopYouth": 4
+  },
+  "Unincorporated - South Antelope Valley": {
+    "Source": "BOS",
+    "Pop16Plus": 418,
+    "Pop65Plus": 108,
+    "PopYouth": 5
+  },
+  "Unincorporated - South Edwards": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - South El Monte": {
+    "Source": "BOS",
+    "Pop16Plus": 1394,
+    "Pop65Plus": 173,
+    "PopYouth": 54
+  },
+  "Unincorporated - South San Gabriel": {
+    "Source": "BOS",
+    "Pop16Plus": 7548,
+    "Pop65Plus": 1772,
+    "PopYouth": 177
+  },
+  "Unincorporated - South Whittier": {
+    "Source": "BOS",
+    "Pop16Plus": 47333,
+    "Pop65Plus": 6674,
+    "PopYouth": 1682
+  },
+  "Unincorporated - Southeast Antelope Valley": {
+    "Source": "BOS",
+    "Pop16Plus": 633,
+    "Pop65Plus": 130,
+    "PopYouth": 19
+  },
+  "Unincorporated - Stevenson Ranch": {
+    "Source": "BOS",
+    "Pop16Plus": 17460,
+    "Pop65Plus": 1994,
+    "PopYouth": 748
+  },
+  "Unincorporated - Sun Village": {
+    "Source": "BOS",
+    "Pop16Plus": 4709,
+    "Pop65Plus": 664,
+    "PopYouth": 184
+  },
+  "Unincorporated - Sunrise Village": {
+    "Source": "BOS",
+    "Pop16Plus": 1059,
+    "Pop65Plus": 223,
+    "PopYouth": 37
+  },
+  "Unincorporated - Twin Lakes/Oat Mountain": {
+    "Source": "BOS",
+    "Pop16Plus": 1394,
+    "Pop65Plus": 229,
+    "PopYouth": 32
+  },
+  "Unincorporated - Universal City": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Val Verde": {
+    "Source": "BOS",
+    "Pop16Plus": 2720,
+    "Pop65Plus": 366,
+    "PopYouth": 101
+  },
+  "Unincorporated - Valencia": {
+    "Source": "BOS",
+    "Pop16Plus": 2325,
+    "Pop65Plus": 158,
+    "PopYouth": 133
+  },
+  "Unincorporated - Valinda": {
+    "Source": "BOS",
+    "Pop16Plus": 18507,
+    "Pop65Plus": 2783,
+    "PopYouth": 651
+  },
+  "Unincorporated - View Park/Windsor Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 10084,
+    "Pop65Plus": 2639,
+    "PopYouth": 272
+  },
+  "Unincorporated - Walnut": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  },
+  "Unincorporated - Walnut Park": {
+    "Source": "BOS",
+    "Pop16Plus": 12469,
+    "Pop65Plus": 1722,
+    "PopYouth": 463
+  },
+  "Unincorporated - West Antelope Valley": {
+    "Source": "BOS",
+    "Pop16Plus": 1348,
+    "Pop65Plus": 362,
+    "PopYouth": 30
+  },
+  "Unincorporated - West Carson": {
+    "Source": "BOS",
+    "Pop16Plus": 18482,
+    "Pop65Plus": 4376,
+    "PopYouth": 430
+  },
+  "Unincorporated - West Chatsworth": {
+    "Source": "BOS",
+    "Pop16Plus": 11,
+    "Pop65Plus": 5,
+    "PopYouth": 0
+  },
+  "Unincorporated - West LA": {
+    "Source": "BOS",
+    "Pop16Plus": 879,
+    "Pop65Plus": 179,
+    "PopYouth": 11
+  },
+  "Unincorporated - West Puente Valley": {
+    "Source": "BOS",
+    "Pop16Plus": 7882,
+    "Pop65Plus": 1257,
+    "PopYouth": 256
+  },
+  "Unincorporated - West Rancho Dominguez": {
+    "Source": "BOS",
+    "Pop16Plus": 1099,
+    "Pop65Plus": 215,
+    "PopYouth": 43
+  },
+  "Unincorporated - West Whittier/Los Nietos": {
+    "Source": "BOS",
+    "Pop16Plus": 21564,
+    "Pop65Plus": 3602,
+    "PopYouth": 760
+  },
+  "Unincorporated - Westfield/Academy Hills": {
+    "Source": "BOS",
+    "Pop16Plus": 1159,
+    "Pop65Plus": 335,
+    "PopYouth": 38
+  },
+  "Unincorporated - Westhills": {
+    "Source": "BOS",
+    "Pop16Plus": 770,
+    "Pop65Plus": 240,
+    "PopYouth": 19
+  },
+  "Unincorporated - White Fence Farms": {
+    "Source": "BOS",
+    "Pop16Plus": 3342,
+    "Pop65Plus": 768,
+    "PopYouth": 70
+  },
+  "Unincorporated - Whittier": {
+    "Source": "BOS",
+    "Pop16Plus": 3218,
+    "Pop65Plus": 799,
+    "PopYouth": 63
+  },
+  "Unincorporated - Whittier Narrows": {
+    "Source": "BOS",
+    "Pop16Plus": 10,
+    "Pop65Plus": 4,
+    "PopYouth": 0
+  },
+  "Unincorporated - Willowbrook": {
+    "Source": "BOS",
+    "Pop16Plus": 26433,
+    "Pop65Plus": 3145,
+    "PopYouth": 1125
+  },
+  "Unincorporated - Wiseburn": {
+    "Source": "BOS",
+    "Pop16Plus": 4846,
+    "Pop65Plus": 818,
+    "PopYouth": 125
+  },
+  "Not Available": {
+    "Source": "BOS",
+    "Pop16Plus": 0,
+    "Pop65Plus": 0,
+    "PopYouth": 0
+  }
+}
